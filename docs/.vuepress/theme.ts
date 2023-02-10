@@ -66,65 +66,7 @@ export default hopeTheme({
   pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
-  blog: {
-    articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
-    intro: "/intro.html",
-    roundAvatar: true,
-    medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      少数派: [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      Wechat: "http://tc.seoipo.com/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
-      Discord: "https://discord.gg/PZTQfJ4GjX",
-      RSS: "https://newzone.top/rss.xml",
-    },
-  },
-  // 开发模式下是否启动热更新，显示所有更改并重新渲染
-  hotReload: true,
-  plugins: {
-    blog: {
-      excerpt: true,
-    },
 
-    // 评论配置（仅做样例，记得更换）
-    comment: {
-      provider: "Waline",
-      serverURL: "https://waline.newzone.top",
-      reaction: [
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
-      ],
-      // 部署 Waline：https://waline.js.org/guide/get-started.html
-      // pageview: true, // 浏览量统计
-      locales: {
-        "/": {
-          // 表情互动提示文字
-          reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
-          reaction0: "赞一个",
-          reaction1: "支持下",
-          reaction2: "有点酷",
-          reaction3: "啥玩意",
-          reaction4: "看不懂",
-          // Waline 等级标签
-          admin: "盛年不重来，一日难再晨",
-          level0: "锻体",
-          level1: "炼气",
-          level2: "筑基",
-          level3: "金丹",
-          level4: "元婴",
-          level5: "化神",
-        },
-      },
 
       // Giscus 备用配置
       /*
