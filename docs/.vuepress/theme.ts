@@ -66,18 +66,9 @@ export default hopeTheme({
   pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
-
-
-      // Giscus 备用配置
-      /*
-      provider: "Giscus",
-      repo: "rockbenben/LearnData",
-      repoId: "R_kgDOHdfk6Q",
-      category: "Comments",
-      categoryId: "DIC_kwDOHdfk6c4CQYNn",
-      */
-    },
-
+  // 开发模式下是否启动热更新，显示所有更改并重新渲染
+  hotReload: true,
+  plugins: {
     // 组件库
     components: {
       components: ["Badge", "BiliBili", "VideoPlayer", "YouTube"],
