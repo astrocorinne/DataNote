@@ -2,14 +2,14 @@ import { navbar } from "vuepress-theme-hope";
 
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default navbar([
-  { text: "博客", icon: "blog", link: "/blog" },
+  
   {
-    text: "代码",
-    icon: "code",
+    text: "项目",
+    icon: "flower",
     prefix: "/",
     children: [
-      "code/Markdown",
-      "code/AutoHotkey",
+      "项目/A",
+      "项目/B",
       "code/Electron",
       {
         text: "页面开发",
