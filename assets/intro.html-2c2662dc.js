@@ -1,0 +1,1 @@
+import{_ as e,Y as t,Z as o,a0 as n}from"./framework-8c11374e.js";const _={},c=n("p",null,"前端新人",-1),s=[c];function r(a,l){return t(),o("div",null,s)}const d=e(_,[["render",r],["__file","intro.html.vue"]]);export{d as default};
