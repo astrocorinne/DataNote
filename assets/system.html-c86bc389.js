@@ -1,0 +1,1 @@
+import{_ as e,Y as t,Z as s,a0 as _}from"./framework-8c11374e.js";const c={},o=_("p",null,"小林图解系统",-1),n=[o];function a(r,l){return t(),s("div",null,n)}const d=e(c,[["render",a],["__file","system.html.vue"]]);export{d as default};

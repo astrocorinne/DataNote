@@ -1,0 +1,1 @@
+import{_ as e,Y as t,Z as _,a0 as c}from"./framework-8c11374e.js";const o={},s=c("p",null,"webgl",-1),l=[s];function n(a,r){return t(),_("div",null,l)}const f=e(o,[["render",n],["__file","Webgl.html.vue"]]);export{f as default};
