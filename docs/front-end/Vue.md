@@ -2,7 +2,7 @@
 article: false
 title: Vue
 icon: vue
-order: 2
+order: 9
 ---
 
 ## 基础知识
