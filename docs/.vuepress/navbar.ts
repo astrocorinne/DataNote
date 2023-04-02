@@ -18,8 +18,8 @@ export default navbar([
     icon: "leaf",
     prefix: "/",
     children: [
-      "project-E",
-      "project-F",
+      "project-E/",
+      "project-F/",
     ],
   },
   { text: "练习集", icon: "debug", link: "/codingcollection" },
@@ -27,7 +27,7 @@ export default navbar([
     text: "知识库",
     icon: "guide",
     prefix: "/",
-    children: ["front-end/", "CS/", "hotspot"],
+    children: ["front-end/", "CS/", "hotspot/"],
   },
 
 ]);

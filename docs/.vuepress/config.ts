@@ -13,8 +13,7 @@ export default defineUserConfig({
   // 网站标题
   title: "珂珂的编程花园",
   // 网站描述
-  description:
-    "记录编程生活，实践并迭代",
+  description: "记录编程生活，实践并迭代",
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
   base: "/",
