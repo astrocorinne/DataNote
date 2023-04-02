@@ -6,8 +6,8 @@
     <link>https://hhttps://astrocorinne.github.io/</link>
     <description>记录编程生活，实践并迭代</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Feb 2023 17:27:49 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Feb 2023 17:27:49 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 14:47:22 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 14:47:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by corinne</copyright>
@@ -31,9 +31,9 @@
       <link>https://hhttps://astrocorinne.github.io/hotspot/Echarts.html</link>
       <guid>https://hhttps://astrocorinne.github.io/hotspot/Echarts.html</guid>
       <source url="https://hhttps://astrocorinne.github.io/rss.xml"></source>
-      <description>echarts https://theme-hope.vuejs.press/zh/guide/markdown/echarts.html</description>
+      <description>Echarts https://theme-hope.vuejs.press/zh/guide/markdown/echarts.html</description>
       <pubDate>Sat, 11 Feb 2023 17:25:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p>echarts
+      <content:encoded><![CDATA[<p>Echarts
 <a href="https://theme-hope.vuejs.press/zh/guide/markdown/echarts.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/markdown/echarts.html</a></p>
 ]]></content:encoded>
     </item>
